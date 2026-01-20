@@ -260,10 +260,4 @@ curl -X POST https://your-app.vercel.app/api/cron/check-prices \
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 Built with ❤️ using **Next.js, Firecrawl, and Supabase**
